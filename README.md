@@ -9,5 +9,5 @@ There are many video players in Gnu/Linux, but none of them are as good as MPV w
 
 ## Tanks for :
 
-[classicjazz](https://github.com/classicjazz)
+[classicjazz](https://github.com/classicjazz)\
 [maoiscat](https://github.com/maoiscat)
