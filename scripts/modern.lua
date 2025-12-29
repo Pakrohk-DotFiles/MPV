@@ -4,7 +4,6 @@
 --
 -- Integration with mpv_thumbnail_script.lua by Jules
 -- https://github.com/TheAMM/mpv_thumbnail_script
-
 -- #############################################################################
 -- # Thumbnailer code from mpv_thumbnail_script_client_osc.lua
 -- # All credit goes to TheAMM for this amazing script.
